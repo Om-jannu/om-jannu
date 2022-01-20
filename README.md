@@ -2,6 +2,10 @@
 - 🔭 I’m a IT Student 
 - 🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year
 - 🌱 I’m currently learning React js
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-jannu&layout=Demo&theme=synthwave)](https://github.com/Om-jannu/github-readme-stats)
+
+
 ## Connect me : ##
 <p align="left">
 <a target="blank" href="https://www.facebook.com/om.jannu.16/" ><img align="center" src="resources/facebook.png" alt="facebook-om" padding="0.5rem" height="40" width="40" /></a>
