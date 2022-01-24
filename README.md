@@ -1,9 +1,9 @@
-### Hi there 👋,I'm Om Jannu
+### Hi there 👋,I'm Om Jannu###
 - 🔭 I’m a IT Student 
 - 🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year
 - 🌱 I’m currently learning React js
 
-##languages and Tools :##
+## languages and Tools :##
 <p align="center">
   <img align="center" src="resources/html-5.png" alt="html" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/css.png" alt="html" padding="0.5rem" height="40" width="40"/>
