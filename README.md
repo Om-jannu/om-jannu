@@ -3,6 +3,8 @@
 - 🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year
 - 🌱 I’m currently learning React js
 
+##
+
 ## My github stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&theme=tokyonight)
 ![om's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-jannu&theme=tokyonight_icons=true)
