@@ -7,7 +7,7 @@
 
 ## My github stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&theme=tokyonight)
-![om's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-jannu&theme=tokyonight_icons=true)
+![om's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-jannu&theme=tokyonight&show_icons=true)
 
 
 ## Find me here : ##
