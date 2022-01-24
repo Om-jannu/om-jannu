@@ -5,9 +5,17 @@
 
 ##languages and Tools :##
 <p align="center">
+  <img align="center" src="resources/html-5.png" alt="html" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/css.png" alt="html" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/sass .png" alt="html" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/js.png" alt="html" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/nodejs.png" alt="html" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/react.png" alt="html" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/python.png" alt="html" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/mysql.png" alt="html" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/visual-studio.png" alt="html" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/linux.png" alt="html" padding="0.5rem" height="40" width="40"/>
   
-  
-
 
 ## My github stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&theme=tokyonight)
