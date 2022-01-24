@@ -3,7 +3,10 @@
 - 🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year
 - 🌱 I’m currently learning React js
 
-##languages i am familiar with:
+##languages and Tools :##
+<p align="center">
+  
+  
 
 
 ## My github stats:
