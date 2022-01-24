@@ -13,4 +13,4 @@
 <a target="blank" href="https://www.instagram.com/om_j27/" ><img align="center" src="resources/instagram.png" alt="instagram-om" padding="0.5rem" height="40" width="40" /></a>
 <a target="blank" href=https://twitter.com/OmJannu" ><img align="center" src="resources/twitter.png" alt="twitter-om" padding="0.5rem" height="40" width="40" /></a>
 <br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Om-jannu&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omjannu&show_icons=true&theme=tokyonight)
