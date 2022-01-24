@@ -7,7 +7,7 @@
 <p align="center">
   <img align="center" src="resources/html-5.png" alt="html" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/css.png" alt="html" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/sass .png" alt="html" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/sass.png" alt="html" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/js.png" alt="html" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/nodejs.png" alt="html" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/react.png" alt="html" padding="0.5rem" height="40" width="40"/>
