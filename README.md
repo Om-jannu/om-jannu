@@ -19,17 +19,18 @@
   
 
 ## My github stats:
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&theme=tokyonight) -->
-<!-- ![om's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-jannu&theme=tokyonight&show_icons=true) -->
-<p align = "center">
+![om's used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&theme=tokyonight)
+![om's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-jannu&theme=tokyonight&show_icons=true)
+![om's readme-streaks](https://github-readme-streak-stats.herokuapp.com/?user=om-jannu)
+<!-- <p align = "center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-jannu" alt="omjannu-streaks" /></p>
 <p><img align="center" src= "https://github-readme-stats.vercel.app/api?username=om-jannu&theme=tokyonight&show_icons=true" alt="omjannu-stats" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&theme=tokyonight" alt="omjannu-lang-stats" /></p>
-</p>
+</p> -->
 
 
 ## Find me here : ##
-<p align="center" justify-content="space-between">
+<p align="center">
 <a margin="1rem" target="blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdMAJjhgMi3qW1TyZsGkBraJWrzD3laR3OBTGbZ4T7JOxySHQ/viewform?usp=sf_link"><img align="center" src="resources/gmail.png" alt="facebook-om" padding="0.5rem" height="40" width="40" /></a>
 <a margin="1rem" target="blank" href="https://www.linkedin.com/in/om-jannu-60a004218/" ><img align="center" src="resources/linkedin.png" alt="linkedin-om" padding="0.5rem" height="40" width="40" /></a>
 <a margin="1rem" target="blank" href="https://www.instagram.com/om_j27/" ><img align="center" src="resources/instagram.png" alt="instagram-om" padding="0.5rem" height="40" width="40" /></a>
