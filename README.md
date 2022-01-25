@@ -1,4 +1,5 @@
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/></p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/>
+
 ### Hi there 👋,I'm Om Jannu
 - 🔭 I’m a IT Student 
 - 🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year
@@ -31,7 +32,7 @@
 </p> 
 
 
-## Find me here : ##
+## Find me here : 
 <p align="center">
 <a margin="1rem" target="blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdMAJjhgMi3qW1TyZsGkBraJWrzD3laR3OBTGbZ4T7JOxySHQ/viewform?usp=sf_link"><img align="center" src="resources/gmail.png" alt="facebook-om" padding="0.5rem" height="40" width="40" /></a>
 <a margin="1rem" target="blank" href="https://www.linkedin.com/in/om-jannu-60a004218/" ><img align="center" src="resources/linkedin.png" alt="linkedin-om" padding="0.5rem" height="40" width="40" /></a>
