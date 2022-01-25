@@ -25,7 +25,7 @@
 
 ## Find me here : ##
 <p align="center" justify-content="space-between">
-<a margin="1rem" target="blank" href="https://omjannu2002@gmail.com/" ><img align="center" src="resources/gmail.png" alt="facebook-om" padding="0.5rem" height="40" width="40" /></a>
+<a margin="1rem" target="blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdMAJjhgMi3qW1TyZsGkBraJWrzD3laR3OBTGbZ4T7JOxySHQ/viewform?usp=sf_link"><img align="center" src="resources/gmail.png" alt="facebook-om" padding="0.5rem" height="40" width="40" /></a>
 <a margin="1rem" target="blank" href="https://www.linkedin.com/in/om-jannu-60a004218/" ><img align="center" src="resources/linkedin.png" alt="linkedin-om" padding="0.5rem" height="40" width="40" /></a>
 <a margin="1rem" target="blank" href="https://www.instagram.com/om_j27/" ><img align="center" src="resources/instagram.png" alt="instagram-om" padding="0.5rem" height="40" width="40" /></a>
 <a margin="1rem" target="blank" href=https://twitter.com/OmJannu" ><img align="center" src="resources/twitter.png" alt="twitter-om" padding="0.5rem" height="40" width="40" /></a>
