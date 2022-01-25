@@ -37,4 +37,5 @@
 <a margin="1rem" target="blank" href="https://www.instagram.com/om_j27/" ><img align="center" src="resources/instagram.png" alt="instagram-om" padding="0.5rem" height="40" width="40" /></a>
 <a margin="1rem" target="blank" href=https://twitter.com/OmJannu" ><img align="center" src="resources/twitter.png" alt="twitter-om" padding="0.5rem" height="40" width="40" /></a>
 </p>
+![](https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu)
 
