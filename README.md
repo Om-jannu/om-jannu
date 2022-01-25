@@ -21,7 +21,7 @@
 ## My github stats:
 ![om's readme-streaks](https://github-readme-streak-stats.herokuapp.com/?user=om-jannu)
 ![om's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-jannu&theme=tokyonight&show_icons=true)
-<p><img width="40" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&theme=tokyonight" alt="omjannu-lang-stats" /></p>
+<p><img width="90" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&theme=tokyonight" alt="omjannu-lang-stats" /></p>
 <!-- ![om's used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&theme=tokyonight) -->
 
 <!-- <p align = "center">
