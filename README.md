@@ -8,15 +8,15 @@
 ## languages and Tools :
 <p align="center">
   <img align="center" src="resources/html-5.png" alt="html" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/css.png" alt="html" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/sass.png" alt="html" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/js.png" alt="html" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/nodejs.png" alt="html" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/react.png" alt="html" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/python.png" alt="html" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/mysql.png" alt="html" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/visual-studio.png" alt="html" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/linux.png" alt="html" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/css.png" alt="css" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/sass.png" alt="sass" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/js.png" alt="js" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/nodejs.png" alt="nodejs" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/react.png" alt="react" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/python.png" alt="python" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/mysql.png" alt="mysql" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/visual-studio.png" alt="vscode" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/linux.png" alt="linux" padding="0.5rem" height="40" width="40"/>
 </p>
   
 
@@ -36,5 +36,7 @@
 <a margin="1rem" target="blank" href=https://twitter.com/OmJannu" ><img align="center" src="resources/twitter.png" alt="twitter-om" padding="0.5rem" height="40" width="40" /></a>
 </p>
 
-
+## Latest Blog Post's :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
