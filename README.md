@@ -24,7 +24,6 @@
 <p align = "center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-jannu" alt="omjannu-streaks" /></p>
 <p><img align="center" src= "https://github-readme-stats.vercel.app/api?username=om-jannu&theme=tokyonight&show_icons=true" alt="omjannu-stats" /></p>
-<p><img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&theme=tokyonight" alt="omjannu-lang-stats" /></p>
 </p> 
 
 
