@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/><img src="https://gpvc.arturio.dev/sw-yx" alt="profile views">
+<img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/><p><img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"></p>
 
 ### Hi there 👋,I'm Om Jannu
 - 🔭 I’m a IT Student 
