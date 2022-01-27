@@ -1,21 +1,14 @@
 
 <h3 align="center">Hii there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<<<<<<< HEAD
   i am Om Jannu
- </h3>
+</h3>
  <img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/>
-- 🔭 I’m a IT Student 
-- 🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year
-- 🌱 I’m currently learning React js
-=======
-  I am Om Jannu
- </h3>
- <img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/>
- <p>🔭 I’m a IT Student </p>
- <p>🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year</p>
- <p>🌱 I’m currently learning React js</p>
+</h3>
+<p>🔭 I’m a IT Student</p> 
+<p>🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year</p> 
+<p>🌱 I’m currently learning React js</p> 
 
->>>>>>> 14bb3dd422febd6836f7cf8c60b575b12d4e5c2c
+<!-- find me here -->
 <p align="center">
   <a margin="1rem" target="blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdMAJjhgMi3qW1TyZsGkBraJWrzD3laR3OBTGbZ4T7JOxySHQ/viewform?usp=sf_link"><img align="center" src="resources/gmail.png" alt="facebook-om" padding="0.5rem" height="40" width="40" /></a>
   <a margin="1rem" target="blank" href="https://www.linkedin.com/in/om-jannu-60a004218/" ><img align="center" src="resources/linkedin.png" alt="linkedin-om" padding="0.5rem" height="40" width="40" /></a>
@@ -36,15 +29,13 @@
   <img align="center" src="resources/visual-studio.png" alt="vscode" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/linux.png" alt="linux" padding="0.5rem" height="40" width="40"/>
 </p>
-<<<<<<< HEAD
 
  ## 🔥Streaks
 <p align="center">
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-jannu" alt="omjannu-streaks" /> -->
 <a href="https://github.com/om-jannu/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="omjannu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=om-jannu1&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="omjannu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=om-jannu&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  <!-- 🔥 Get streak stats for your profile at "https://git.io/streak-stats" -->
 </p>
 
 ## My github stats:
@@ -53,56 +44,21 @@
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=om-jannu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#388](https://github.com/nextcord/nextcord/pull/388) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+<!-- 1. 💪 Opened PR [#388](https://github.com/nextcord/nextcord/pull/388) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 2. 💪 Opened PR [#387](https://github.com/nextcord/nextcord/pull/387) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 3. 💪 Opened PR [#384](https://github.com/nextcord/nextcord/pull/384) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 4. ❗️ Opened issue [#29](https://github.com/nextcord/nextcord-ext-menus/issues/29) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-5. 🎉 Merged PR [#311](https://github.com/DenverCoder1/jct-discord-bot/pull/311) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 🎉 Merged PR [#311](https://github.com/DenverCoder1/jct-discord-bot/pull/311) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot) -->
 <!--END_SECTION:activity-->
 </details>
-
-<!-- <p align = "center">
-<p><img align="center" src= "https://github-readme-stats.vercel.app/api?username=om-jannu&theme=tokyonight&show_icons=true" alt="omjannu-stats" /></p>
-<p><img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&theme=tokyonight" alt="omjannu-lang-stats" /></p>
-</p>  -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-=======
                                                                                                    
-## 🔥Streaks
-<p align="center">
-<a href="https://github.com/om-jannu/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="omjannu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=om-jannu&theme=monokai-metallian&hide_border=true"/>
-<!--   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>  -->
-
-## My github stats:                                                                                          
- <details>
-                                                                                           <summary>💻 GitHub Profile Stats</summary>                                                                                      
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="omjannu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=om-jannu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="omjannu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-                                                                                          </details>
-
- 
-<details>
-<summary>⚡ Recent GitHub Activity</summary>
-<br/>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</details>
-                                                                                      
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="omjannu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=om-jannu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
->>>>>>> 14bb3dd422febd6836f7cf8c60b575b12d4e5c2c
-
 
