@@ -1,7 +1,7 @@
 
-<h3 align="center">Hii there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  i am Om Jannu
-</h3>
+<h1 align="center">Hii there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I am Om Jannu
+</h1>
  <img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/>
 </h3>
 <p>🔭 I’m a IT Student</p> 
@@ -59,6 +59,6 @@
 <!--END_SECTION:activity-->
 </details>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=om-jannu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
                                                                                                    
 
