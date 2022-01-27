@@ -3,9 +3,9 @@
   i am Om Jannu
  </h3>
  <img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/>
-- 🔭 I’m a IT Student 
-- 🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year
-- 🌱 I’m currently learning React js
+ <p>🔭 I’m a IT Student </p>
+ <p>🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year</p>
+ <p>🌱 I’m currently learning React js</p>
 
 <p align="center">
   <a margin="1rem" target="blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdMAJjhgMi3qW1TyZsGkBraJWrzD3laR3OBTGbZ4T7JOxySHQ/viewform?usp=sf_link"><img align="center" src="resources/gmail.png" alt="facebook-om" padding="0.5rem" height="40" width="40" /></a>
@@ -36,12 +36,7 @@
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p> 
 
-## My github stats:
-<p align = "center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-jannu" alt="omjannu-streaks" /></p>
-<p><img align="center" src= "https://github-readme-stats.vercel.app/api?username=om-jannu&theme=tokyonight&show_icons=true" alt="omjannu-stats" /></p>
-</p> 
-                                                                                          
+## My github stats:                                                                       
   <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
