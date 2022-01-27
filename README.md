@@ -55,6 +55,8 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
+                                                                                      
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="omjannu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=om-jannu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
