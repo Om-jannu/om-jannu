@@ -20,14 +20,16 @@
 <p align="center">
   <img align="center" src="resources/html-5.png" alt="html" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/css.png" alt="css" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/sass.png" alt="sass" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/sass.svg" alt="sass" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/js.png" alt="js" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/nodejs.png" alt="nodejs" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/java.png" alt="js" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/nodejs.svg" alt="nodejs" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/react.svg" alt="react" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/python.png" alt="python" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/mysql.png" alt="mysql" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/visual-studio.png" alt="vscode" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/linux.png" alt="linux" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/git.png" alt="git" padding="0.5rem" height="40" width="40"/>
 </p>
 
  ## 🔥Streaks
