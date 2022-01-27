@@ -1,9 +1,18 @@
-<a margin="1rem"><img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/></a> 
 
-### Hi there 👋,I'm Om Jannu
+<h3 align="center">Hii there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  i am Om Jannu
+ </h3>
+ <img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/>
 - 🔭 I’m a IT Student 
 - 🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year
 - 🌱 I’m currently learning React js
+
+<p align="center">
+  <a margin="1rem" target="blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdMAJjhgMi3qW1TyZsGkBraJWrzD3laR3OBTGbZ4T7JOxySHQ/viewform?usp=sf_link"><img align="center" src="resources/gmail.png" alt="facebook-om" padding="0.5rem" height="40" width="40" /></a>
+  <a margin="1rem" target="blank" href="https://www.linkedin.com/in/om-jannu-60a004218/" ><img align="center" src="resources/linkedin.png" alt="linkedin-om" padding="0.5rem" height="40" width="40" /></a>
+  <a margin="1rem" target="blank" href="https://www.instagram.com/om_j27/" ><img align="center" src="resources/instagram.png" alt="instagram-om" padding="0.5rem" height="40" width="40" /></a>
+  <a margin="1rem" target="blank" href=https://twitter.com/OmJannu" ><img align="center" src="resources/twitter.png" alt="twitter-om" padding="0.5rem" height="40" width="40" /></a>
+</p>
 
 ## languages and Tools :
 <p align="center">
@@ -18,21 +27,34 @@
   <img align="center" src="resources/visual-studio.png" alt="vscode" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/linux.png" alt="linux" padding="0.5rem" height="40" width="40"/>
 </p>
-  
+                                                                                                   
+## 🔥Streaks
+<p align="center">
+<a href="https://github.com/om-jannu/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="omjannu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=om-jannu1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p> 
 
 ## My github stats:
 <p align = "center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-jannu" alt="omjannu-streaks" /></p>
 <p><img align="center" src= "https://github-readme-stats.vercel.app/api?username=om-jannu&theme=tokyonight&show_icons=true" alt="omjannu-stats" /></p>
 </p> 
+                                                                                          
+  <details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=om-jannu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+</details>
+  
+<details>
+<summary>⚡ Recent GitHub Activity</summary>
+<br/>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
 
-
-## Find me here : 
-<p align="center">
-<a margin="1rem" target="blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdMAJjhgMi3qW1TyZsGkBraJWrzD3laR3OBTGbZ4T7JOxySHQ/viewform?usp=sf_link"><img align="center" src="resources/gmail.png" alt="facebook-om" padding="0.5rem" height="40" width="40" /></a>
-<a margin="1rem" target="blank" href="https://www.linkedin.com/in/om-jannu-60a004218/" ><img align="center" src="resources/linkedin.png" alt="linkedin-om" padding="0.5rem" height="40" width="40" /></a>
-<a margin="1rem" target="blank" href="https://www.instagram.com/om_j27/" ><img align="center" src="resources/instagram.png" alt="instagram-om" padding="0.5rem" height="40" width="40" /></a>
-<a margin="1rem" target="blank" href=https://twitter.com/OmJannu" ><img align="center" src="resources/twitter.png" alt="twitter-om" padding="0.5rem" height="40" width="40" /></a>
-</p>
 
 
