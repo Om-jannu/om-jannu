@@ -22,6 +22,8 @@
   <img align="center" src="resources/css.png" alt="css" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/sass.svg" alt="sass" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/js.png" alt="js" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/c++.png" alt="js" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/c.png" alt="js" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/java.png" alt="js" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/nodejs.svg" alt="nodejs" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/react.svg" alt="react" padding="0.5rem" height="40" width="40"/>
