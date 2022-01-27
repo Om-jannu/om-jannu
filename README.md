@@ -23,7 +23,7 @@
   <img align="center" src="resources/sass.png" alt="sass" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/js.png" alt="js" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/nodejs.png" alt="nodejs" padding="0.5rem" height="40" width="40"/>
-  <img align="center" src="resources/react.png" alt="react" padding="0.5rem" height="40" width="40"/>
+  <img align="center" src="resources/react.svg" alt="react" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/python.png" alt="python" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/mysql.png" alt="mysql" padding="0.5rem" height="40" width="40"/>
   <img align="center" src="resources/visual-studio.png" alt="vscode" padding="0.5rem" height="40" width="40"/>
