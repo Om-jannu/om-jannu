@@ -55,11 +55,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-<!-- 1. 💪 Opened PR [#388](https://github.com/nextcord/nextcord/pull/388) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#387](https://github.com/nextcord/nextcord/pull/387) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 💪 Opened PR [#384](https://github.com/nextcord/nextcord/pull/384) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❗️ Opened issue [#29](https://github.com/nextcord/nextcord-ext-menus/issues/29) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-5. 🎉 Merged PR [#311](https://github.com/DenverCoder1/jct-discord-bot/pull/311) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot) -->
+
 <!--END_SECTION:activity-->
                                                                                       
 </details>
