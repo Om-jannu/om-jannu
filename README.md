@@ -5,7 +5,7 @@
  <img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/>
 </h3>
 <p>🔭 I’m a IT Student</p> 
-<p>🏫 I'm currently studying in Don Bosco Institute of technology as a 🎓Second Year</p> 
+<p>🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai in SE-IT</p> 
 <p>🌱 I’m currently learning React js</p> 
 
 <!-- find me here -->
@@ -61,8 +61,9 @@
 4. ❗️ Opened issue [#29](https://github.com/nextcord/nextcord-ext-menus/issues/29) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
 5. 🎉 Merged PR [#311](https://github.com/DenverCoder1/jct-discord-bot/pull/311) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot) -->
 <!--END_SECTION:activity-->
+                                                                                      
 </details>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=om-jannu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="om jannu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=om-jannu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
                                                                                                    
 
