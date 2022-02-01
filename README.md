@@ -1,5 +1,5 @@
 
-<h1 align="center">Hii there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center">Hii there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   I am Om Jannu
 </h1>
  <img src="https://visitor-badge.glitch.me/badge?page_id=om-jannu.om-jannu" alt="om-visitor-list"/>
