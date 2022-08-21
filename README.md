@@ -5,7 +5,7 @@
  <img alt="om_visitor_count" src="https://komarev.com/ghpvc/?username=your-github-om-jannu&color=blueviolet"/>
 </h3>
 <p>🔭 I’m a IT Student</p> 
-<p>🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai in SE-IT</p> 
+<p>🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai</p> 
 <p>🌱 I’m currently learning React js</p> 
 
 <!-- find me here -->
