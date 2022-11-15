@@ -4,7 +4,7 @@
 </h1>
  <img alt="om_visitor_count" src="https://komarev.com/ghpvc/?username=your-github-om-jannu&color=blueviolet"/>
 </h3>
-<p>🔭 I am A full Stack Developer from India</p> 
+<p>🔭 Full Stack learner from India</p> 
 <p>🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai</p> 
 
 <!-- find me here -->
