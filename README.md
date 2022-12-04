@@ -49,7 +49,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-jannu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </details>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="om jannu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=om-jannu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Om's github activity graph](https://activity-graph.herokuapp.com/graph?username=Om-jannu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
                                                                                                    
