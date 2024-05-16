@@ -4,8 +4,7 @@
 </h1>
  <img alt="om_visitor_count" src="https://komarev.com/ghpvc/?username=your-github-om-jannu&color=blueviolet"/>
 </h3>
-<p>🔭 Full Stack learner from India</p> 
-<p>🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai</p> 
+<p>Hey there, I'm [Your Name], a code enthusiast on a mission to turn ideas into digital magic! When I'm not crafting software, you'll find me exploring tech trends and geeking out over new releases. Let's build something awesome together! 💻✨</p> 
 
 <!-- find me here -->
 <p align="center">
