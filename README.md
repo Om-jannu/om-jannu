@@ -4,7 +4,7 @@
 </h1>
  <img alt="om_visitor_count" src="https://komarev.com/ghpvc/?username=your-github-om-jannu&color=blueviolet"/>
 </h3>
-<p>Hey there, I'm [Your Name], a code enthusiast on a mission to turn ideas into digital magic! When I'm not crafting software, you'll find me exploring tech trends and geeking out over new releases. Let's build something awesome together! 💻✨</p> 
+<p>Hey there, I'm Om Jannu, a code enthusiast on a mission to turn ideas into digital magic! When I'm not crafting software, you'll find me exploring tech trends and geeking out over new releases. Let's build something awesome together! 💻✨</p> 
 
 <!-- find me here -->
 <p align="center">
